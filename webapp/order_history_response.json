@@ -1,0 +1,624 @@
+{
+  "error": 0,
+  "error_msg": "",
+  "data": {
+    "order_data": {
+      "details_list": [
+        {
+          "status": {
+            "status_label": {
+              "text": "label_order_completed",
+              "tl": false
+            },
+            "header_text": {
+              "text": "order_status_text_completed_return_refund_by_date",
+              "tl": false,
+              "attributes": [
+                {
+                  "name": "return_request_due_date",
+                  "value": "1732158211",
+                  "type": 7
+                }
+              ]
+            },
+            "header_image": "https://deo.shopeemobile.com/shopee/shopee-orderprocessing-live-vn/completed.png",
+            "popup_msg": {
+              "text": "order_tooltip_completed_buyer_not_rated_can_rate",
+              "tl": false,
+              "attributes": [
+                {
+                  "name": "rate_by_date",
+                  "value": "1733849999",
+                  "type": 7
+                },
+                {
+                  "name": "coins_earned",
+                  "value": "20000000",
+                  "type": 10
+                }
+              ]
+            },
+            "list_view_text": {
+              "text": "order_list_text_completed_enabled_buyer_has_not_rated",
+              "tl": false,
+              "attributes": [
+                {
+                  "name": "rate_by_date",
+                  "value": "1733849999",
+                  "type": 7
+                }
+              ]
+            },
+            "list_view_sub_text": {
+              "text": "order_list_sub_text_rate_product",
+              "tl": false,
+              "attributes": [
+                {
+                  "name": "coins_to_earn",
+                  "value": "20000000",
+                  "type": 10
+                }
+              ]
+            },
+            "list_view_status_label": {
+              "text": "label_completed",
+              "tl": false
+            }
+          },
+          "shipping": {
+            "tracking_info": {
+              "driver_phone": "84965811084",
+              "driver_name": "Cao Thế Đạt 084",
+              "ctime": 1730862210,
+              "description": "Giao hàng thành công",
+              "type": 0
+            },
+            "is_multi_parcel": false,
+            "num_parcels": 1,
+            "parcel_no": 1
+          },
+          "info_card": {
+            "order_id": 184555897233714,
+            "order_list_cards": [
+              {
+                "shop_info": {
+                  "shop_id": 781061776,
+                  "shop_name": "hopquatang",
+                  "user_id": 781045530,
+                  "username": "hopquatang",
+                  "portrait": "71f2d3ced8aeb30f91fc2d5fe4a090b4",
+                  "shop_tag": 3
+                },
+                "order_id": 184555897233714,
+                "product_info": {
+                  "item_groups": [
+                    {
+                      "items": [
+                        {
+                          "item_id": 19647383935,
+                          "model_id": 182393555227,
+                          "shop_id": 781061776,
+                          "name": "Thiệp Kèm Thư In Mạ Nổi Lấp Lánh Thiệp Quà Tặng Chúc Mừng Sinh Nhật Cảm Ơn Noel",
+                          "model_name": "Happy Birthday",
+                          "image": "d573281297089e6727179e80f4494d93",
+                          "amount": 1,
+                          "ext_info": {
+                            "add_on_deal_id": 0,
+                            "is_add_on_sub_item": false,
+                            "free_return_day": 0,
+                            "is_wholesale": false,
+                            "is_pre_order": false,
+                            "is_membership_gift": false,
+                            "is_free_return": true
+                          },
+                          "status": 1,
+                          "item_price": 700000000,
+                          "price_before_discount": 1400000000,
+                          "order_price": 700000000,
+                          "snapshot_id": 10812523544
+                        }
+                      ],
+                      "num_items": 1
+                    },
+                    {
+                      "items": [
+                        {
+                          "item_id": 18652213290,
+                          "model_id": 88327769089,
+                          "shop_id": 781061776,
+                          "name": "Túi Quà Tặng Túi Giấy Cứng Chòm Sao Cao Cấp Sang Trọng",
+                          "model_name": "Xanh Nhạt,19.5x9.5x24.5cm",
+                          "image": "f3ebf470be3b22f6822ab8938e5c5843",
+                          "amount": 1,
+                          "ext_info": {
+                            "add_on_deal_id": 0,
+                            "is_add_on_sub_item": false,
+                            "free_return_day": 0,
+                            "is_wholesale": false,
+                            "is_pre_order": false,
+                            "is_membership_gift": false,
+                            "is_free_return": true
+                          },
+                          "status": 1,
+                          "item_price": 1500000000,
+                          "price_before_discount": 3000000000,
+                          "order_price": 1500000000,
+                          "snapshot_id": 47269801486
+                        }
+                      ],
+                      "num_items": 1
+                    }
+                  ],
+                  "total_num_items": 2
+                }
+              }
+            ],
+            "product_count": 2,
+            "subtotal": 11860000000,
+            "final_total": 11860000000
+          },
+          "primary_buttons": [
+            {
+              "id": 9
+            },
+            {
+              "id": 25
+            }
+          ],
+          "secondary_buttons": [
+            {
+              "id": 15
+            },
+            {
+              "id": 24
+            }
+          ],
+          "list_type": 3
+        },
+        {
+          "status": {
+            "status_label": {
+              "text": "label_order_cancelled",
+              "tl": false
+            },
+            "header_text": {
+              "text": "order_status_text_cancelled_order_cancelled_refund",
+              "tl": false
+            },
+            "header_image": "https://deo.shopeemobile.com/shopee/shopee-orderprocessing-live-vn/cancelled.png",
+            "list_view_text": {
+              "text": "order_list_text_cancelled_by_buyer",
+              "tl": false
+            },
+            "list_view_status_label": {
+              "text": "label_cancelled",
+              "tl": false
+            }
+          },
+          "info_card": {
+            "order_id": 184555791204323,
+            "order_list_cards": [
+              {
+                "shop_info": {
+                  "shop_id": 781061776,
+                  "shop_name": "hopquatang",
+                  "user_id": 781045530,
+                  "username": "hopquatang",
+                  "portrait": "71f2d3ced8aeb30f91fc2d5fe4a090b4",
+                  "shop_tag": 3
+                },
+                "order_id": 184555791204323,
+                "product_info": {
+                  "item_groups": [
+                    {
+                      "items": [
+                        {
+                          "item_id": 19647383935,
+                          "model_id": 182393555227,
+                          "shop_id": 781061776,
+                          "name": "Thiệp Kèm Thư In Mạ Nổi Lấp Lánh Thiệp Quà Tặng Chúc Mừng Sinh Nhật Cảm Ơn Noel",
+                          "model_name": "Happy Birthday",
+                          "image": "d573281297089e6727179e80f4494d93",
+                          "amount": 1,
+                          "ext_info": {
+                            "add_on_deal_id": 0,
+                            "is_add_on_sub_item": false,
+                            "free_return_day": 0,
+                            "is_wholesale": false,
+                            "is_pre_order": false,
+                            "is_membership_gift": false,
+                            "is_free_return": true
+                          },
+                          "status": 1,
+                          "item_price": 700000000,
+                          "price_before_discount": 1400000000,
+                          "order_price": 700000000,
+                          "snapshot_id": 10812523544
+                        }
+                      ],
+                      "num_items": 1
+                    },
+                    {
+                      "items": [
+                        {
+                          "item_id": 18652213290,
+                          "model_id": 88327769089,
+                          "shop_id": 781061776,
+                          "name": "Túi Quà Tặng Túi Giấy Cứng Chòm Sao Cao Cấp Sang Trọng",
+                          "model_name": "Xanh Nhạt,19.5x9.5x24.5cm",
+                          "image": "f3ebf470be3b22f6822ab8938e5c5843",
+                          "amount": 1,
+                          "ext_info": {
+                            "add_on_deal_id": 0,
+                            "is_add_on_sub_item": false,
+                            "free_return_day": 0,
+                            "is_wholesale": false,
+                            "is_pre_order": false,
+                            "is_membership_gift": false,
+                            "is_free_return": true
+                          },
+                          "status": 1,
+                          "item_price": 1500000000,
+                          "price_before_discount": 3000000000,
+                          "order_price": 1500000000,
+                          "snapshot_id": 47269801486
+                        }
+                      ],
+                      "num_items": 1
+                    }
+                  ],
+                  "total_num_items": 2
+                }
+              }
+            ],
+            "product_count": 2,
+            "subtotal": 10050000000,
+            "final_total": 10050000000
+          },
+          "primary_buttons": [
+            {
+              "id": 24
+            },
+            {
+              "id": 66
+            }
+          ],
+          "secondary_buttons": [
+            {
+              "id": 15
+            }
+          ],
+          "list_type": 4,
+          "is_new_cancellation_flow_enabled": true
+        },
+        {
+          "status": {
+            "status_label": {
+              "text": "label_order_completed",
+              "tl": false
+            },
+            "header_text": {
+              "text": "order_status_text_completed_buyer_rated_can_edit",
+              "tl": false,
+              "attributes": [
+                {
+                  "name": "editable_date",
+                  "value": "1731654171",
+                  "type": 7
+                }
+              ]
+            },
+            "header_image": "https://deo.shopeemobile.com/shopee/shopee-orderprocessing-live-vn/completed.png",
+            "popup_msg": {
+              "text": "order_tooltip_completed_buyer_rated_can_edit",
+              "tl": false,
+              "attributes": [
+                {
+                  "name": "editable_date",
+                  "value": "1731654171",
+                  "type": 7
+                }
+              ]
+            },
+            "list_view_text": {
+              "text": "order_list_text_completed_enabled_buyer_has_rated_can_edit_seller_has_not_rated_can_edit",
+              "tl": false
+            },
+            "list_view_status_label": {
+              "text": "label_rated",
+              "tl": false
+            }
+          },
+          "shipping": {
+            "tracking_info": {
+              "driver_phone": "84354970422",
+              "driver_name": "Nguyễn Tùng Dương",
+              "ctime": 1729051109,
+              "description": "Giao hàng thành công",
+              "type": 0
+            },
+            "is_multi_parcel": false,
+            "num_parcels": 1,
+            "parcel_no": 1
+          },
+          "info_card": {
+            "order_id": 182696014291107,
+            "order_list_cards": [
+              {
+                "shop_info": {
+                  "shop_id": 322094848,
+                  "shop_name": "Pikapi - Ốp iPhone chính hãng",
+                  "user_id": 322114447,
+                  "username": "pikapistore",
+                  "portrait": "54bf88a385ee5a7d4bc77c40af06bb48",
+                  "shop_tag": 3
+                },
+                "order_id": 182696014291107,
+                "livestream_info": {
+                  "session_id": 17592722,
+                  "title": "live 11.11 cùng Vinh Xô"
+                },
+                "product_info": {
+                  "item_groups": [
+                    {
+                      "items": [
+                        {
+                          "item_id": 27655977018,
+                          "model_id": 236571709272,
+                          "shop_id": 322094848,
+                          "name": "Ốp iPhone chống bám bẩn mồ hôi dấu vây tay, Ốp lưng iPhone MÀU ĐEN nhám mờ, chống sốc, chống xước",
+                          "model_name": "Ốp Đen Nhám,15",
+                          "image": "vn-11134207-7r98o-ly1qt3r1kkpl5e",
+                          "amount": 1,
+                          "ext_info": {
+                            "add_on_deal_id": 0,
+                            "is_add_on_sub_item": false,
+                            "free_return_day": 0,
+                            "is_wholesale": false,
+                            "is_pre_order": false,
+                            "is_membership_gift": false,
+                            "is_free_return": true
+                          },
+                          "status": 1,
+                          "item_price": 4700000000,
+                          "price_before_discount": 7900000000,
+                          "order_price": 4700000000,
+                          "snapshot_id": 41775908261
+                        }
+                      ],
+                      "num_items": 1
+                    }
+                  ],
+                  "total_num_items": 1
+                }
+              }
+            ],
+            "product_count": 1,
+            "subtotal": 8510000000,
+            "final_total": 8510000000
+          },
+          "primary_buttons": [
+            {
+              "id": 24
+            }
+          ],
+          "secondary_buttons": [
+            {
+              "id": 15
+            },
+            {
+              "id": 11
+            }
+          ],
+          "list_type": 3
+        },
+        {
+          "status": {
+            "status_label": {
+              "text": "label_order_cancelled",
+              "tl": false
+            },
+            "header_text": {
+              "text": "order_status_text_cancelled_order_cancelled_refund",
+              "tl": false
+            },
+            "header_image": "https://deo.shopeemobile.com/shopee/shopee-orderprocessing-live-vn/cancelled.png",
+            "list_view_text": {
+              "text": "order_list_text_cancelled_by_buyer",
+              "tl": false
+            },
+            "list_view_status_label": {
+              "text": "label_cancelled",
+              "tl": false
+            }
+          },
+          "info_card": {
+            "order_id": 182620850203890,
+            "order_list_cards": [
+              {
+                "shop_info": {
+                  "shop_id": 131169935,
+                  "shop_name": "Phụ Kiện Rẻ Quá",
+                  "user_id": 131171759,
+                  "username": "phukienrequa",
+                  "portrait": "fbd948968b3ec490ef8660da2edc4caa",
+                  "shop_tag": 3
+                },
+                "order_id": 182620850203890,
+                "product_info": {
+                  "item_groups": [
+                    {
+                      "items": [
+                        {
+                          "item_id": 20381290016,
+                          "model_id": 194603287790,
+                          "shop_id": 131169935,
+                          "name": "Ốp lưng silicon dẻo chính hãng cao cấp iphone 16 pro max 15 pro max 14promax 14plus 13promax 12promax 11 promax xsmax",
+                          "model_name": "15",
+                          "image": "vn-11134207-7qukw-lijs94ku168i30",
+                          "amount": 1,
+                          "ext_info": {
+                            "add_on_deal_id": 0,
+                            "is_add_on_sub_item": false,
+                            "free_return_day": 0,
+                            "is_wholesale": false,
+                            "is_pre_order": false,
+                            "is_membership_gift": false,
+                            "is_free_return": true
+                          },
+                          "status": 1,
+                          "item_price": 4500000000,
+                          "order_price": 4500000000,
+                          "snapshot_id": 46260109874
+                        }
+                      ],
+                      "num_items": 1
+                    }
+                  ],
+                  "total_num_items": 1
+                }
+              }
+            ],
+            "product_count": 1,
+            "subtotal": 4400000000,
+            "final_total": 4400000000
+          },
+          "primary_buttons": [
+            {
+              "id": 24
+            },
+            {
+              "id": 66
+            }
+          ],
+          "secondary_buttons": [
+            {
+              "id": 15
+            }
+          ],
+          "list_type": 4,
+          "is_new_cancellation_flow_enabled": true
+        },
+        {
+          "status": {
+            "status_label": {
+              "text": "label_order_completed",
+              "tl": false
+            },
+            "header_text": {
+              "text": "order_status_text_completed_buyer_rated_can_edit",
+              "tl": false,
+              "attributes": [
+                {
+                  "name": "editable_date",
+                  "value": "1731564984",
+                  "type": 7
+                }
+              ]
+            },
+            "header_image": "https://deo.shopeemobile.com/shopee/shopee-orderprocessing-live-vn/completed.png",
+            "popup_msg": {
+              "text": "order_tooltip_completed_buyer_rated_can_edit",
+              "tl": false,
+              "attributes": [
+                {
+                  "name": "editable_date",
+                  "value": "1731564984",
+                  "type": 7
+                }
+              ]
+            },
+            "list_view_text": {
+              "text": "order_list_text_completed_enabled_buyer_has_rated_can_edit_seller_has_not_rated_can_edit",
+              "tl": false
+            },
+            "list_view_status_label": {
+              "text": "label_rated",
+              "tl": false
+            }
+          },
+          "shipping": {
+            "tracking_info": {
+              "driver_phone": "",
+              "driver_name": "",
+              "ctime": 1727162319,
+              "description": "Giao hàng thành công",
+              "type": 0
+            },
+            "is_multi_parcel": false,
+            "num_parcels": 1,
+            "parcel_no": 1
+          },
+          "info_card": {
+            "order_id": 180599106291079,
+            "order_list_cards": [
+              {
+                "shop_info": {
+                  "shop_id": 240245104,
+                  "shop_name": "LG Monitor Store",
+                  "user_id": 240250563,
+                  "username": "monitorstorevn",
+                  "portrait": "vn-11134216-7r98o-lxywqji1jw7tb1",
+                  "shop_tag": 1
+                },
+                "order_id": 180599106291079,
+                "product_info": {
+                  "item_groups": [
+                    {
+                      "items": [
+                        {
+                          "item_id": 26853323565,
+                          "model_id": 246055305643,
+                          "shop_id": 240245104,
+                          "name": "[FULL VAT] MÀN HÌNH LG 27MR400 - 24MR400 (27 - 23.8 INCH/FHD/IPS/100HZ/5MS)",
+                          "model_name": "24MR400-B",
+                          "image": "vn-11134207-7r98o-lxt8hoynnwexf0",
+                          "amount": 1,
+                          "ext_info": {
+                            "add_on_deal_id": 0,
+                            "is_add_on_sub_item": false,
+                            "free_return_day": 15,
+                            "is_wholesale": false,
+                            "is_pre_order": false,
+                            "is_membership_gift": false,
+                            "is_free_return": true
+                          },
+                          "status": 1,
+                          "item_price": 233900000000,
+                          "price_before_discount": 299000000000,
+                          "order_price": 233900000000,
+                          "snapshot_id": 45742192625
+                        }
+                      ],
+                      "num_items": 1
+                    }
+                  ],
+                  "total_num_items": 1
+                }
+              }
+            ],
+            "product_count": 1,
+            "subtotal": 229900000000,
+            "final_total": 229900000000
+          },
+          "primary_buttons": [
+            {
+              "id": 24
+            }
+          ],
+          "secondary_buttons": [
+            {
+              "id": 15
+            },
+            {
+              "id": 11
+            }
+          ],
+          "list_type": 3
+        }
+      ]
+    },
+    "checkout_data": {},
+    "next_offset": 5
+  }
+}
